@@ -9,6 +9,7 @@ Code implementing differential fairness (DF) metric with demonstrations on the A
 ## Prerequisites
 
 * Python
+* PyTorch
 
 The code is tested on windows and linux operating systems. It should work on any other platform.
 
