@@ -31,7 +31,7 @@ The code to implement differential fairness metric is licensed under Apache Lice
 
 ## Acknowledgments
 
-Many part of the data pre-processing was based on the "[Towards fairness in machine learning with adversarial networks](https://github.com/equialgo/fairness-in-ml)" blog post.
+Many part of the Adult data pre-processing was based on the "[Towards fairness in machine learning with adversarial networks](https://github.com/equialgo/fairness-in-ml)" blog post.
 
 ##  Remarks
 Code for calculating our differential fairness metric is now available in the AI Fairness 360 toolkit from IBM Research! 
