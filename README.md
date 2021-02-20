@@ -21,7 +21,7 @@ The code is tested on windows and linux operating systems. It should work on any
 * 'data' folder contains the Adult dataset
 
 ## Learning algorithms
-* We provide "easy to understand" implementation of learning algorithms for batch and stochastic methods.
+* We provide "easy to understand" implementation of learning algorithms for batch and stochastic methods. Detail instructions to run batch DF and stochastic DF classifiers are provided in the "learning-algorithm-batch" and "learning-algorithm-stochastic" folders, respectively. 
 
 ## Author
 
