@@ -1,0 +1,2 @@
+##  Inequity of Intersectional Fairness Measures
+* We quantify the resulting inequity of fairness metric using the Gini coefficient(Lorenz, 1905), a commonly used measure of statistical dispersion which is often used to represent the inequity of income. For details, please look into our paper: **R. Islam, K.N. Keya, S. Pan, A.D. Sarwate, and J.R. Foulds. Differential fairness. Under submission, 2021.** 
