@@ -20,6 +20,9 @@ The code is tested on windows and linux operating systems. It should work on any
 * demo_binary_groups.py: Demo for measurement of DF on intersectional groups in Adult dataset while each protected attribute (i.e. race) can only have binary values (i.e. white and non-white)
 * 'data' folder contains the Adult dataset
 
+## Learning algorithms
+* We provide "easy to understand" implementation of learning algorithms for batch and stochastic methods.
+
 ## Author
 
 * Rashidul Islam (email: islam.rashidul@umbc.edu)
