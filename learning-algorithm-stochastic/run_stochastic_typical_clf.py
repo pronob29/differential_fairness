@@ -85,7 +85,7 @@ learning_rate = 0.001
 
 #%%
 import sys
-sys.stdout=open("stochastic_typical_clf_out","w")
+sys.stdout=open("stochastic_typical_clf_out.txt","w")
 
 #%% Training typical model
 typical_clf = training_typical(input_size,hidden1,hidden2,hidden3,output_size,learning_rate,num_epochs,trainData,trainLabel,miniBatch) 
