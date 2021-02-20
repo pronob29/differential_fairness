@@ -1,11 +1,6 @@
 # Differential Fairness
 Code implementing differential fairness (DF) metric with demonstrations on the Adult 1994 U.S. census income data from the UCI repository
 
-## Reference Papers
-1. R. Islam, K.N. Keya, S. Pan, A.D. Sarwate, and J.R. Foulds. Differential fairness. Under submission, 2021.
-2. J. R. Foulds, R. Islam, K. Keya, and S. Pan. Differential fairness. NeurIPS 2019 Workshop on Machine Learning with Guarantees, 2019. [PDF](http://jfoulds.informationsystems.umbc.edu/papers/2019/Foulds%20(2019)%20-%20DifferentialFairness_NeurIPS_MLWG.pdf).
-3. J. R. Foulds, R. Islam, K. Keya, and S. Pan. An Intersectional Definition of Fairness. 36th IEEE International Conference on Data Engineering (ICDE), 2020. [Arxiv long version](https://arxiv.org/pdf/1807.08362.pdf).
-
 ## Prerequisites
 
 * Python
@@ -39,4 +34,10 @@ Many part of the Adult data pre-processing was based on the "[Towards fairness i
 ##  Remarks
 Code for calculating our differential fairness metric is now available in the AI Fairness 360 toolkit from IBM Research! 
 [AI Fairness 360 Open Source Toolkit](http://aif360.mybluemix.net/).
+
+## Reference Papers
+* Please cite the corresponding paper when using the code
+1. R. Islam, K.N. Keya, S. Pan, A.D. Sarwate, and J.R. Foulds. Differential fairness. Under submission, 2021.
+2. J. R. Foulds, R. Islam, K. Keya, and S. Pan. An Intersectional Definition of Fairness. 36th IEEE International Conference on Data Engineering (ICDE), 2020. [Arxiv long version](https://arxiv.org/pdf/1807.08362.pdf).
+3. J. R. Foulds, R. Islam, K. Keya, and S. Pan. Differential fairness. NeurIPS 2019 Workshop on Machine Learning with Guarantees, 2019. [PDF](http://jfoulds.informationsystems.umbc.edu/papers/2019/Foulds%20(2019)%20-%20DifferentialFairness_NeurIPS_MLWG.pdf).
 
